@@ -1,11 +1,11 @@
 body {
     margin: 60px auto;
     width: 70%;
-    color: blue;
+    background-color: #ffe866;
 }
 nav ul, footer ul {
     padding: 0px;
-    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    font-family: 'Amatic SC', cursive;
     list-style: none;
     font-weight: bold;
 }
@@ -22,7 +22,7 @@ a:hover {
 }
 p {
     font-size: 1.5em;
-    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    font-family: 'Amatic SC', cursive;
     line-height: 1.4em;
     color: #333;
 }
