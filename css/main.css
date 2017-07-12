@@ -1,11 +1,11 @@
 body {
     margin: 60px auto;
     width: 70%;
-    color: #ffe066;
-    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    color: blue;
 }
 nav ul, footer ul {
     padding: 0px;
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
     list-style: none;
     font-weight: bold;
 }
@@ -22,6 +22,7 @@ a:hover {
 }
 p {
     font-size: 1.5em;
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
     line-height: 1.4em;
     color: #333;
 }
