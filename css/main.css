@@ -26,6 +26,7 @@ p {
     font-family: 'Josefin Slab', serif;
     line-height: 1.4em;
     color: #333;
+    <div style="display:flex;justify-content:center;align-items:center;font-size:4em;">Text Content</div>
 }
 footer {
     border-top: 1px solid #d5d5d5;
