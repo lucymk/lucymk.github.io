@@ -8,7 +8,7 @@ nav ul, footer ul {
     font-family: 'Josefin Slab', serif;
     list-style: none;
     font-weight: bold;
-    font-size: 2.5em;
+    font-size: 2em;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -17,7 +17,7 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #999;
-    font-size: 2.5em;
+    font-size: 2em;
 }
 a:hover {
     text-decoration: underline;
@@ -30,12 +30,12 @@ p {
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: 2.5em;
+    font-size: 2em;
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 2.5em;
+    font-size: 2em;
 }
 
 ul.posts li {
