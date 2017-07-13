@@ -5,9 +5,10 @@ body {
 }
 nav ul, footer ul {
     padding: 0px;
-    font-family: 'Amatic SC', cursive;
+    font-family: 'Josefin Slab', serif;
     list-style: none;
     font-weight: bold;
+    font-size: 2.5em;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -21,19 +22,19 @@ a:hover {
     text-decoration: underline;
 }
 p {
-    font-size: 1.5em;
-    font-family: 'Amatic SC', cursive;
+    font-size: 4.5em;
+    font-family: 'Josefin Slab', serif;
     line-height: 1.4em;
     color: #333;
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    font-size: 2.5em;
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 2.5em;
 }
 
 ul.posts li {
