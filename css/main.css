@@ -2,6 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
     background-color: #ffe866;
+    font-size: 2em
 }
 nav ul, footer ul {
     padding: 0px;
