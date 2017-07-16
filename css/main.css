@@ -22,7 +22,7 @@ body {
 }
 
 .carrot1 {
-    width: 140px;
+    width: 150px;
     margin-top: -4%;
     margin-left: 0%;
     margin-bottom: -9%;
@@ -31,7 +31,7 @@ body {
 }
 
 .carrot2 {
-    width: 140px;
+    width: 150px;
     margin-top: -4%;
     margin-left: 0%;
     margin-bottom: -9%;
@@ -40,7 +40,7 @@ body {
 }
 
 .carrot3 {
-    width: 140px;
+    width: 150px;
     margin-top: -4%;
     margin-left: 0%;
     margin-bottom: -9%;
@@ -49,7 +49,7 @@ body {
 }
 
 .smaller-image {
-    width: 130px;
+    width: 140px;
     margin-top: -4%;
     margin-right: 0%;
     margin-bottom: -9%;
@@ -58,7 +58,7 @@ body {
 }
 
 p {
-    font-size: 85px;
+    font-size: 95px;
     font-family:'Yantramanav', serif;
     font-weight: bold;
     color: white;
