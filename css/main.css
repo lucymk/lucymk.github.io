@@ -9,11 +9,13 @@ nav, footer {
     display: inline;
     margin-right: 20px;
 }
-
+nav {
+    border-bottom: 1px solid #d5d5d5;
+}
 a {
     text-decoration: none;
     color: #999;
-    font-size: 18px;
+    font-size: 19px;
     font-family: 'Josefin Slab', serif;
     font-weight: bold;
 }
@@ -31,7 +33,6 @@ p {
 
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: 2em;
 }
 
 
