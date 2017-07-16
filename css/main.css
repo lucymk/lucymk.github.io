@@ -1,7 +1,10 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: #ffeb99;
+    background-image: lucymk.github.io/background carrots.jpg;
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
 }
 
 a {
