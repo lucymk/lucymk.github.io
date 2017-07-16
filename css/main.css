@@ -7,6 +7,13 @@ body {
     background-attachment: fixed;
 }
 
+header {
+    padding: 0px;
+    display: inline;
+    margin-right: 20px;
+    height: 25px;
+}
+
 a {
     text-decoration: none;
     color: #999;
@@ -43,11 +50,5 @@ p {
 
 }
 
-footer {
-    padding: 0px;
-    display: inline;
-    margin-right: 20px;
-    border-top: 1px solid #999;
-}
 
 
