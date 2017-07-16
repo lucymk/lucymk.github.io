@@ -7,7 +7,6 @@ header {
     padding: 0px;
     display: inline;
     margin-right: 20px;
-    height: 25px;
 }
 
 a {
@@ -28,14 +27,37 @@ a:hover {
     height: 100%;
 }
 
-.box {
+.box1 {
     height:300px;
+    margin-top: 1%;
+    padding-top: 1%;
     text-align: center;
+}
+
+.box2 {
+    height:200px;
+    margin-top:5%;
+    text-align: center;
+}
+
+.carrot-pic {
+   background-image: url('lucymk.github.io/background carrots.jpg');
+   background-size: cover;
+   margin:0%;
 }
 
 .images {
     width: 140px;
-    margin: -10%;
+    margin: -9%;
+    display: inline-block;
+}
+
+.smaller-image {
+    width: 130px;
+    margin-top: -10%;
+    margin-right: -2%;
+    margin-bottom: -10%;
+    margin-left: -2%;
     display: inline-block;
 }
 
@@ -46,5 +68,3 @@ p {
     color: black;
 
 }
-
-
