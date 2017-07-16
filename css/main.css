@@ -32,6 +32,7 @@ a:hover {
 .images {
     width: 16.7%
     margin: 2.5%;
+    display: inline-block;
 }
 
 p {
