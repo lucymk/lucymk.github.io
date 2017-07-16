@@ -3,58 +3,16 @@ body {
     width: 100%;
 }
 
-.box1 {
-    margin-top:0;
-    padding-top:0;
-    text-align: center;
-}
-
-.box2 {
-    height:200px;
-    margin-top:0%;
-    text-align: center;
-}
-
 .carrot-pic {
    background-image: url('https://preview.ibb.co/mn96vF/background_carrots.jpg');
    background-size: cover;
    margin:0%;
 }
 
-.carrot1 {
-    width: 150px;
-    margin-top: -4%;
-    margin-left: 0%;
-    margin-bottom: -9%;
-    margin-right: 0%;
-    display: inline-block;
-}
-
-.carrot2 {
-    width: 150px;
-    margin-top: -4%;
-    margin-left: 0%;
-    margin-bottom: -9%;
-    margin-right: 0%;
-    display: inline-block;
-}
-
-.carrot3 {
-    width: 150px;
-    margin-top: -4%;
-    margin-left: 0%;
-    margin-bottom: -9%;
-    margin-right: 0%;
-    display: inline-block;
-}
-
-.smaller-image {
-    width: 140px;
-    margin-top: -4%;
-    margin-right: 0%;
-    margin-bottom: -9%;
-    margin-left: 0%;
-    display: inline-block;
+.box1 {
+    margin-top:0;
+    padding-top:0;
+    text-align: center;
 }
 
 p {
@@ -64,4 +22,46 @@ p {
     color: white;
     padding-top: 2%;
     padding bottom:3%;
+}
+
+.box2 {
+    height:200px;
+    margin-top:0%;
+    text-align: center;
+}
+
+.carrot1 {
+    width: 140px;
+    margin-top: -4%;
+    margin-left: 0%;
+    margin-bottom: -9%;
+    margin-right: 10px;
+    display: inline-block;
+}
+
+.carrot2 {
+    width: 140px;
+    margin-top: -4%;
+    margin-left: 0%;
+    margin-bottom: -9%;
+    margin-right: 30px;
+    display: inline-block;
+}
+
+.smaller-image {
+    width: 130px;
+    margin-top: -4%;
+    margin-right: 20px;
+    margin-bottom: -9%;
+    margin-left: 0%;
+    display: inline-block;
+}
+
+.carrot3 {
+    width: 140px;
+    margin-top: -4%;
+    margin-left: 0%;
+    margin-bottom: -9%;
+    margin-right: 0%;
+    display: inline-block;
 }
