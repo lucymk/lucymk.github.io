@@ -17,8 +17,16 @@ a:hover {
     text-decoration: underline;
 }
 
+.box {
+    text.align: center;
+}
+
+.images {
+    margin: 10%;
+}
+
 p {
-    font-size: 100px;
+    font-size: 60px;
     font-family:'Josefin Slab', serif;
     font-weight: bold;
     color: black;
