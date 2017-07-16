@@ -13,7 +13,7 @@ a {
     text-decoration: none;
     color: #999;
     font-size: 19px;
-    font-family: 'Josefin Slab', serif;
+    font-family: 'Yantramanav', serif;
     font-weight: bold;
     margin: 10%;
 }
@@ -23,7 +23,7 @@ a:hover {
 }
 
 .yellow {
-    background-color: #ffdb4d;
+    background-color: #ffb400;
     height: 100%;
 }
 
@@ -83,10 +83,10 @@ a:hover {
 
 p {
     font-size: 80px;
-    font-family:'Josefin Slab', serif;
+    font-family:'Yantramanav', serif;
     font-weight: bold;
     color: white;
-    text-shadow: -1px 0 #000000,0 1px #000000,1px 0 #000000,0 -1px #000000;
+    margin-top: 1%
 
 
 }
