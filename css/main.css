@@ -10,6 +10,7 @@ a {
     font-size: 19px;
     font-family: 'Josefin Slab', serif;
     font-weight: bold;
+    margin: 10%;
 }
 
 a:hover {
@@ -17,7 +18,7 @@ a:hover {
 }
 
 p {
-    font-size: 40px;
+    font-size: 100px;
     font-family:'Josefin Slab', serif;
     font-weight: bold;
     color: black;
