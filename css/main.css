@@ -16,6 +16,14 @@ a:hover {
     text-decoration: underline;
 }
 
+p {
+    font-size: 40px;
+    font-family:'Josefin Slab', serif;
+    font-weight: bold;
+    color: black;
+
+}
+
 footer {
     padding: 0px;
     display: inline;
