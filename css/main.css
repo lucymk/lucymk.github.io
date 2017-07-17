@@ -14,6 +14,7 @@ body, html {
 }
 
 .box1 {
+    height: 50%
     margin-top:0;
     padding-top:0;
     text-align: center;
@@ -29,7 +30,7 @@ p {
 }
 
 .box2 {
-    height:200px;
+    height:50%;
     margin-top:0%;
     text-align: center;
 }
