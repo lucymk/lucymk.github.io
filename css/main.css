@@ -6,6 +6,7 @@ body {
 .carrot-pic {
    background-image: url('https://preview.ibb.co/mn96vF/background_carrots.jpg');
    background-size: cover;
+   background-repeat: no-repeat;
    margin:0%;
 }
 
