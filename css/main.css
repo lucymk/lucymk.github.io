@@ -87,6 +87,7 @@ body {
 .pic {
  max-height: 100%;
  position: static;
+ float: left;
 }
 
 #page3 {
