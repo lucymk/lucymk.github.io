@@ -141,7 +141,6 @@ float: right;
  border-radius: 5%;
  height: 100%;
  margin-left: 3%;
- padding: 1%;
  width:40%;
  min-width:500px;
  box-sizing: border-box;
@@ -167,8 +166,11 @@ float: right;
  font-family: 'Allerta Stencil', arial;
  font-weight: bold;
  color: black;
- overflow: scroll;
+ overflow: auto;
+ text-overflow: ellipsis;
  font-size: 1.6vmin;
+ padding: 2%;
+ box-sizing: border-box;
 }
 
 .aboutCat {
@@ -176,4 +178,5 @@ float: right;
   width: auto;
   text-align: center;
 }
+
 
