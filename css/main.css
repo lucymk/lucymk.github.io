@@ -120,11 +120,57 @@ float: right;
   background-repeat: no-repeat;
 }
 
-.homelink {
- color:inherit;
- background-color: rgba(255, 255, 255, 0.7);
+.fa {
+  color: white;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+}
+
+
+.about {
+  height:94%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: rgba(0,0,0,0);
+}
+
+.about1 {
+ background-color: rgba(255, 255, 255, 0.8);
  border-radius: 5%;
+ font-family: 'Allerta Stencil', arial;
+ font-weight: bold;
+ color: black;
+ height: 100%;
+ margin-left: 3%;
+ padding: 1%;
+ width:40%;
+ text-overflow: 0;
+ font-size: 1.6vmin;
+ box-sizing: border-box;
+ float:left;
+}
+
+.about2 {
+ background-color: rgba(0, 0, 0, 0);
+ padding-left: 7.5%;
+ padding-top: 0;
+ margin: 0;
+ width:12.5%;
+ height: 100%;
+ box-sizing: border-box;
  display: inline-block;
- padding: 1vh 2vh 1vh 2vh;
- margin-top: 4.5%;
+ position: relative;
+}
+
+.aboutMe{
+  height:77.5%;
+  width: 100%;
+}
+
+.aboutCat {
+  height:25%;
+  width: auto;
+  text-align: center;
 }
