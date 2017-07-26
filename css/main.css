@@ -7,18 +7,13 @@ body {
   width: 100%;
 }
 
-.halfpage {
-  height: 47.5%;
-  width: 100%;
-  text-align: center;
-}
-
 .page5percent {
   height:5%;
   width: 100%;
 }
 
 .page80percent {
+  position: relative;
   height: 80%;
   width: 100%;
 }
@@ -59,14 +54,14 @@ body {
    font-size: 12vmin;
 }
 
-.icon {
- height: 30vmin;
- max-height: 250px;
- padding-top: 8%;
- padding-right: 2%;
- clear: both;
+.about {
+  display: inline-block;
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 5%;
+  padding: 1vh 2vh 1vh 2vh;
+  margin-top: 1%;
+  margin-right: 1%;
 }
-
 
 #page2 {
   background-color: #17a3a5;
@@ -133,5 +128,3 @@ float: right;
  padding: 1vh 2vh 1vh 2vh;
  margin-top: 4.5%;
 }
-
-
