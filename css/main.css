@@ -33,6 +33,17 @@ body {
   background-color:white;
 }
 
+#popup { 
+ display: none; 
+  
+}
+
+@media only screen and (max-device-width:480px) {
+  #popup { 
+  display: block; 
+  }
+}
+
 #page1 {
    background-image: url('https://preview.ibb.co/mn96vF/background_carrots.jpg');
    background-size: cover;
@@ -187,7 +198,6 @@ float: right;
   width: auto;
   box-sizing: border-box;
 }
-
 
 
 
