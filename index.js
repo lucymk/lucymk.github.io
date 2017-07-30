@@ -1,24 +1,21 @@
-var marginY = 0;
-var destination = 0;
-var speed = 20;
-var scroller = null;
-
-
+var yAxis = 0;
+var speed = 15;
+var move = null;
 
 window.onscroll = function(){
-	marginY = this.pageYOffset;	
+	yAxis = this.pageYOffset;	
 };
 
-function toTop(){
-	scroller = setTimeout(function(){
-		toTop();
+function goToTop(){
+	move = setTimeout(function(){
+		goToTop();
 	}, 1);
 
-	marginY = marginY - speed;
+	yAxis = yAxis - speed;
 
-	if(marginY <= 0){
-		clearTimeout(scroller);
+	if(yAxis <= 0){
+		clearTimeout(move);
 	}	
 
-	window.scroll(0, marginY);
+	window.scroll(0, yAxis);
 }
