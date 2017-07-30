@@ -1,6 +1,6 @@
 var marginY = 0;
 var destination = 0;
-var speed = 15;
+var speed = 20;
 var scroller = null;
 
 
