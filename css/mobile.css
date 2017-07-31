@@ -13,6 +13,8 @@ html,body
     margin: 0px;
     padding: 0px;
     overflow-x: hidden; 
+    overflow-y: scroll; /* has to be scroll, not auto */
+   -webkit-overflow-scrolling: touch;
 }
 
 #page1 {
