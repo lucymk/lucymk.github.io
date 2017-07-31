@@ -68,7 +68,7 @@ html,body
    font-weight: bold;
    color: white;
    font-size: 5em;
-   max-width: 340px;
+   max-width: 100vw;
    max-height:90vh;
    display: inline-block;
    box-sizing: border-box;
