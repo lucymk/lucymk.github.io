@@ -1,3 +1,7 @@
+.mobile {
+  display: none;
+}
+
 body {
   min-width: 1000px;
 }
@@ -33,21 +37,32 @@ body {
   background-color:white;
 }
 
-.popup { 
- display: none; 
-  
-}
-
-@media only screen and (max-device-width:480px) {
-  #popup { 
-  display: block; 
-  }
-}
-
 #page1 {
    background-image: url("../Images/background_wtdwct.jpg");
    background-size: cover;
    background-repeat: no-repeat;
+}
+
+#page2 {
+  background-color: #17a3a5;
+}
+
+#page3 {
+  background-color: #8dbf67;
+}
+
+#page4 {
+  background-color:	#fccb5f;
+}
+
+#page5 {
+  background-color: #fc6e59;
+}
+
+#page6 {
+  background-image: url("../Images/IMG_1775 (1).jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .buffer1 {
@@ -73,11 +88,6 @@ body {
   margin-top: 1%;
   margin-right: 1%;
 }
-
-#page2 {
-  background-color: #17a3a5;
-}
-
 
 .recipe {
  font-family: 'Allerta Stencil', arial;
@@ -113,31 +123,12 @@ float: right;
  overflow: hidden;
 }
 
-#page3 {
-  background-color: #8dbf67;
-}
-
-#page4 {
-  background-color:	#fccb5f;
-}
-
-#page5 {
-  background-color: #fc6e59;
-}
-
-#page6 {
-  background-image: url("../Images/IMG_1775 (1).jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
 .fa-angle-double-up {
   color: white;
   bottom: 0;
   right: 0;
   position: absolute;
 }
-
 
 .about {
   height:96%;
@@ -188,7 +179,6 @@ float: right;
   text-align: center;
   margin-top:0;
   box-sizing: border-box;
-
 }
 
 .aboutIcons {
@@ -198,7 +188,3 @@ float: right;
   width: auto;
   box-sizing: border-box;
 }
-
-
-
-
