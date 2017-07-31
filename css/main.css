@@ -11,11 +11,6 @@ body {
   width: 100%;
 }
 
-.page5percent {
-  height:5%;
-  width: 100%;
-}
-
 .page80percent {
   position: relative;
   height: 80%;
@@ -69,24 +64,11 @@ body {
   height:25%;
 }
 
-.buffer2 {
-  height:32.5%;
-}
-
 .textp1 {
    font-family: 'Allerta Stencil', arial;
    font-weight: bold;
    color: white;
    font-size: 12vmin;
-}
-
-.about {
-  display: inline-block;
-  background-color: rgba(255, 255, 255, 0.7);
-  border-radius: 5%;
-  padding: 1vh 2vh 1vh 2vh;
-  margin-top: 1%;
-  margin-right: 1%;
 }
 
 .recipe {
@@ -123,19 +105,15 @@ float: right;
  overflow: hidden;
 }
 
-.fa-angle-double-up {
-  color: white;
-  bottom: 0;
-  right: 0;
-  position: absolute;
-}
-
 .about {
+  display: inline-block;
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 5%;
+  padding: 1vh 2vh 1vh 2vh;
+  margin-top: 1%;
+  margin-right: 1%;
   height:96%;
   width: 100%;
-  margin: 0;
-  padding: 0;
-  background-color: inherit;
 }
 
 .about1 {
@@ -187,4 +165,11 @@ float: right;
   display: inline-block;
   width: auto;
   box-sizing: border-box;
+}
+
+.fa-angle-double-up {
+  color: white;
+  bottom: 0;
+  right: 0;
+  position: absolute;
 }
