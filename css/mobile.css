@@ -65,7 +65,7 @@ html,body
    font-family: 'Allerta Stencil', arial;
    font-weight: bold;
    color: white;
-   font-size: 4em;
+   font-size: 5vmin;
    max-width: 95vw;
    max-height:80vh;
    display: inline-block;
@@ -113,7 +113,7 @@ box-sizing: border-box;
  font-family: 'Allerta Stencil', arial;
  font-weight: bold;
  color: white;
- font-size: 3vw;
+ font-size: 3vmin;
  margin-left: 2%;
  margin-right: 2%;
  padding-bottom: 4%;
